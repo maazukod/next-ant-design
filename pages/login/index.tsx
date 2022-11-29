@@ -4,7 +4,7 @@ import Head from 'next/head';
 import { useRouter } from 'next/router';
 import { LockOutlined, UserOutlined } from '@ant-design/icons';
 import { Button, Checkbox, Form, Input } from 'antd';
-import { Alert, Space } from 'antd';
+import { Alert } from 'antd';
 import Image from 'next/image';
 
 const { Header, Content, Footer } = Layout;

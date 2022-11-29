@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import SiteLayout from '../layout';
+import SiteLayout from '@/layout';
 
 const PageContent = () => {
   return <>This is a home page</>;
